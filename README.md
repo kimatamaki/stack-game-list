@@ -39,8 +39,6 @@ python stackgamelist.py
 
 # Author
 
-作成情報を列挙する
-
 * [@menow_white](https://twitter.com/menow_white)
 
 # License
