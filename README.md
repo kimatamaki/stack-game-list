@@ -25,14 +25,11 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/kimatamaki/stack-game-list
 cd stack-game-list
-```
-Edit settings.py and enter the API key obtained from the Steam Web API in the following variables.
-```python:settings.py
-API_KEY = "Your Steam Web API Key"
-STEAMID = "Youre Steam Profile ID"
-```
-```bash
-python stackgamelist.py
+python main.py
+
+Please Input Your Steam Web API Key And SteamId
+API Key : #Enter the API key obtained from the Steam Web API.
+steamId : #Go to the source of your own profile page on Steam and enter the value set for `g_steamID`.
 ```
 
 # Note
