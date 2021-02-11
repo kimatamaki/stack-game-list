@@ -8,11 +8,12 @@ Not yet
 
 # Features
 
-You can output the acquired game list to a text file and import it to Trello.
+You can output the acquired game list to a screen or import it to Trello.
 
 # Requirement
 
-* Python 3.9.1
+- Python
+    - 3.9.*
 
 # Installation
 
